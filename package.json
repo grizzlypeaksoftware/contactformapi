@@ -1,0 +1,17 @@
+{
+  "name": "contactformapi",
+  "version": "1.0.0",
+  "description": "Contact Form API that uses Open AI LLM to Filter for Spam",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shane Larson",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
